@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-👋 Hi, I'm Bhanupriya <br>🎓 3rd-year Computer Science Engineering student @ GECH<br>      Currently learning python full stack web development<br>      Reach Me : bhanupriya7540@gmail.cm
+👋 Hi, I'm Bhanupriya <br>🎓 3rd-year Computer Science Engineering student @ GECH<br>      💻 Currently learning python full stack web development<br>      Reach Me : bhanupriya7540@gmail.cm
 
 
 # 💻 Tech Stack:
