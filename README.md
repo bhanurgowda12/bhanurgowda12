@@ -16,7 +16,18 @@
 ![](https://github-contributor-stats.vercel.app/api?username=bhanurgowda12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=bhanurgowda12&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
+<h2 align="center">👀 Profile Visitors</h2>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=bhanurgowda12&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
