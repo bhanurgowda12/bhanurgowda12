@@ -21,7 +21,7 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="./profile/stats.svg" alt="GitHub Statistics" width="49%" />
   <img src="./profile/top-langs.svg" alt="Top Languages" width="49%" />
 </p>
@@ -30,7 +30,7 @@
 
 # 🔥 GitHub Contribution Streak
 
-<p align="center">
+<p align="left">
   <img src="./profile/streak.svg" alt="GitHub Contribution Streak" />
 </p>
 
@@ -38,7 +38,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=bhanurgowda12&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
@@ -46,7 +46,7 @@
 
 ### 🔝 Top Contributed Repo
 
-<p align="center">
+<p align="left">
   <img src="https://github-contributor-stats.vercel.app/api?username=bhanurgowda12&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
 
@@ -54,7 +54,7 @@
 
 <h2 align="left">👀 Profile Visitors</h2>
 
-<p align="center">
+<p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=bhanurgowda12&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"
     alt="Profile Views"
