@@ -52,7 +52,7 @@
 
 ---
 
-<h2 align="center">👀 Profile Visitors</h2>
+<h2 align="left">👀 Profile Visitors</h2>
 
 <p align="center">
   <img
