@@ -1,7 +1,7 @@
 
 # 💫 About Me
 
-👋 Hi, I'm Bhanupriya N R <br>
+👋 Hi, I'm Bhanupriya N.R <br>
 🎓 3rd-year Computer Science Engineering student @ GECH<br>
 💻 Currently learning Python Full Stack Web Development, git & github <br>
 📫 Reach me: [bhanupriya7540@gmail.com](mailto:bhanupriya7540@gmail.com)
